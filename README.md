@@ -5,6 +5,10 @@ Easily add pan/tilt functionality to your Arduino using two servos and a joystic
 
 ================
 
+this code was made with the arduino uno in mind.
+
+================
+
 ### Source License
 
 The resources found here can be used freely in personal and commercial projects if integrated and built upon. If using this code, I expect that you let your users know that the source is available on GitHub, and tell them how to find it. 
