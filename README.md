@@ -11,7 +11,6 @@ this code was made with the arduino uno in mind.
 
 upload the arduino-pan-tilt sketch to your arduino. Attach one of the potentiometers on the joystick to analog 0 and the other to analog pin 1. The servos will be attached to pins 8 and 9.
 
-================
 
 ## License (MIT)
 
